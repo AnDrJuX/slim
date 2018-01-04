@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails slim: development" uuid="4bad8cea-300a-43ee-a0aa-67fd6589d1ee">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails slim: production" uuid="4ff9e56c-4de2-4056-b71a-5baf945d6814">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>slim</user-name>
+    </data-source>
+    <data-source name="Rails slim: test" uuid="34247efb-403d-45fc-81d4-df925f54a33b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+  </component>
+</project>
