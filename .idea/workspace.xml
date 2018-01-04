@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbdcc56c-8cc0-4bd1-b5c4-277214f3141c" name="Default" comment="" />
+    <list default="true" id="fbdcc56c-8cc0-4bd1-b5c4-277214f3141c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.rspec" afterPath="$PROJECT_DIR$/.rspec" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change beforePath="$PROJECT_DIR$/spec/rails_helper.rb" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" />
+    </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/public/system/" />
@@ -17,26 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".ruby-gemset" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.ruby-gemset">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".ruby-version" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.ruby-version">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="database.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/database.yml">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,11 +32,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+            <state relative-caret-position="462">
+              <caret line="55" column="34" lean-forward="false" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rails_helper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/rails_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="55" column="49" lean-forward="false" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item_spec.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/models/item_spec.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/models/item.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="20180104084445_create_items.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20180104084445_create_items.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="spec_helper.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-918">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".rspec" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.rspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -77,26 +122,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Applications/projects/bootstrap/config/database.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -107,7 +132,12 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/database.yml" />
+        <option value="$PROJECT_DIR$/.rspec" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/db/migrate/20180104084445_create_items.rb" />
+        <option value="$PROJECT_DIR$/spec/rails_helper.rb" />
+        <option value="$PROJECT_DIR$/spec/models/item_spec.rb" />
+        <option value="$PROJECT_DIR$/app/models/item.rb" />
       </list>
     </option>
   </component>
@@ -154,7 +184,35 @@
             <path>
               <item name="slim" type="b2602c69:ProjectViewProjectNode" />
               <item name="slim" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slim" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slim" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slim" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="migrate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slim" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="slim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="slim" type="462c0819:PsiDirectoryNode" />
+              <item name="spec" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -298,12 +356,12 @@
       <updated>1515042283052</updated>
       <workItem from="1515042284723" duration="1652000" />
       <workItem from="1515046046289" duration="29000" />
-      <workItem from="1515046077248" duration="1440000" />
+      <workItem from="1515046077248" duration="3557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3121000" />
+    <option name="totallyTimeSpent" value="5238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="23" width="1233" height="777" extended-state="0" />
@@ -471,10 +529,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.rspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+        <state relative-caret-position="462">
+          <caret line="55" column="34" lean-forward="false" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20180104084445_create_items.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-918">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/rails_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="55" column="49" lean-forward="false" selection-start-line="55" selection-start-column="49" selection-end-line="55" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/models/item_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/item.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="25" lean-forward="false" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
           <folding />
         </state>
       </provider>
